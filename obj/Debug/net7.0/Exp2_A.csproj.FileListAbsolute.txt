@@ -1,0 +1,14 @@
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\bin\Debug\net7.0\Exp2_A.exe
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\bin\Debug\net7.0\Exp2_A.deps.json
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\bin\Debug\net7.0\Exp2_A.runtimeconfig.json
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\bin\Debug\net7.0\Exp2_A.dll
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\bin\Debug\net7.0\Exp2_A.pdb
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.AssemblyInfoInputs.cache
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.AssemblyInfo.cs
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.csproj.CoreCompileInputs.cache
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.dll
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\refint\Exp2_A.dll
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.pdb
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\Exp2_A.genruntimeconfig.cache
+C:\Users\Default.DESKTOP-ETB54CL\Desktop\STUDENTS FILES\Dagaang_A223\Exp2_A\obj\Debug\net7.0\ref\Exp2_A.dll
